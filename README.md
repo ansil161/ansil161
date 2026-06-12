@@ -24,12 +24,12 @@
 </div>
 
 ### 💫 About Me
-* 🔭 I’m currently working as a **Python Fullstack Developer Intern** at **Bridgeon Solutions**[cite: 1].
-* 🎓 Pursuing my **BCA** at IGNOU[cite: 1].
-* 🧠 Specializing in **AI-driven applications**, **RAG**, and **LLM** integrations[cite: 1].
-* 🛠️ Building robust backends with **Django**, **FastAPI**, and real-time streaming pipelines with **Kafka** and **Debezium**[cite: 1].
-* ☁️ Passionate about cloud deployment using **AWS (EC2, RDS, EKS)** and **Docker**[cite: 1].
-* 🌍 Based in Kerala, India[cite: 1].
+* 🔭 I’m currently working as a **Python Fullstack Developer Intern** at **Bridgeon Solutions**.
+
+* 🧠 Specializing in **AI-driven applications**, **RAG**, and **LLM** integrations.
+* 🛠️ Building robust backends with **Django**, **FastAPI**, and real-time streaming pipelines with **Kafka** and **Debezium**.
+* ☁️ Passionate about cloud deployment using **AWS (EC2, RDS, EKS)** and **Docker**.
+* 🌍 Based in Kerala, India.
 
 <br clear="both">
 

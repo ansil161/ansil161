@@ -1,147 +1,58 @@
-```python
-class Ansil:
-    name        = "Ansil K"
-    role        = "Full Stack Python Developer"
-    location    = "Kerala, India 🌴"
-    currently   = "Interning @ Bridgeon Solutions — shipping prod features"
-    building    = "AI-powered platforms that actually solve problems"
-    obsessed_with = ["LLMs in backend pipelines", "clean API design", "things that scale"]
-
-    stack = {
-        "backend":   ["Django", "FastAPI", "DRF", "Celery", "WebSockets", "WebRTC"],
-        "frontend":  ["React", "Redux Toolkit", "Tailwind CSS", "Bootstrap"],
-        "ai":        ["LangChain", "LangGraph", "RAG", "FAISS", "ChromaDB", "Qdrant", "Groq/LLaMA"],
-        "infra":     ["Docker", "AWS (EC2, RDS, S3, EKS)", "Nginx", "Terraform", "GitHub Actions"],
-        "databases": ["PostgreSQL", "Redis", "MongoDB", "ClickHouse"],
-        "streaming": ["Apache Kafka", "Debezium", "Redis Pub/Sub"],
-    }
-
-    def contact(self):
-        return {
-            "email":    "ansil5252@gmail.com",
-            "github":   "ansil.github",
-            "linkedin": "ansil.linkedin",
-        }
-```
-
----
+# <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ansil+K!;Full+Stack+Python+Developer;AI+%26+Backend+Specialist" alt="Typing SVG" /> </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=110&lines=building+backends+that+don't+fall+over;wiring+LLMs+into+real+products;microservices+%2B+kafka+%2B+questionable+sleep+schedules;django+%7C+fastapi+%7C+react+%7C+whatever+ships+it)](https://git.io/typing-svg)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="300" alt="Animated Developer GIF">
 </div>
 
----
+## 👨‍💻 About Me
+* I am a Full Stack Developer with hands-on experience in building scalable web applications using Django, FastAPI, and React[cite: 1].
+* I am skilled in REST APIs, PostgreSQL, and deploying applications using Docker and AWS[cite: 1].
+* I specialize in backend systems and AI-driven applications[cite: 1].
+* I am currently working as a Python Fullstack Developer Intern at Bridgeon Solutions (since June 2025)[cite: 1].
+* I am pursuing my Bachelor of Computer Applications (BCA) at IGNOU[cite: 1].
+* I am based in Kerala, India[cite: 1].
 
-## what i'm working on rn
-
-→ **Bridgeon Solutions** (June 2025 – present) — building multi-tenant apps and microservices in Django REST + FastAPI + React. agile sprints, jira, actual code reviews with actual humans.
-
-→ **levelling up** on agentic AI systems — specifically LangGraph orchestration, Kafka-based event pipelines, and RAG over large document corpora.
-
----
-
-## stack
-
-<details>
-<summary><b>backend</b></summary>
-
-![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7AA2F7)
-![Django](https://img.shields.io/badge/Django-1a1b26?style=flat-square&logo=django&logoColor=9ECE6A)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=7AA2F7)
-![DRF](https://img.shields.io/badge/DRF-1a1b26?style=flat-square&logo=django&logoColor=F7768E)
-![Celery](https://img.shields.io/badge/Celery-1a1b26?style=flat-square&logo=celery&logoColor=9ECE6A)
-![WebSockets](https://img.shields.io/badge/WebSockets-1a1b26?style=flat-square&logo=socket.io&logoColor=7DCFFF)
-![JWT](https://img.shields.io/badge/JWT-1a1b26?style=flat-square&logo=jsonwebtokens&logoColor=E0AF68)
-
-</details>
-
-<details>
-<summary><b>frontend</b></summary>
-
-![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7AA2F7)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-1a1b26?style=flat-square&logo=redux&logoColor=BB9AF7)
-![JavaScript](https://img.shields.io/badge/JS_ES6+-1a1b26?style=flat-square&logo=javascript&logoColor=E0AF68)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwindcss&logoColor=7DCFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=BB9AF7)
-
-</details>
-
-<details>
-<summary><b>AI & data</b></summary>
-
-![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=chainlink&logoColor=9ECE6A)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1b26?style=flat-square&logo=graphql&logoColor=F7768E)
-![RAG](https://img.shields.io/badge/RAG-1a1b26?style=flat-square&logo=openai&logoColor=7AA2F7)
-![FAISS](https://img.shields.io/badge/FAISS-1a1b26?style=flat-square&logo=meta&logoColor=7AA2F7)
-![Qdrant](https://img.shields.io/badge/Qdrant-1a1b26?style=flat-square&logo=databricks&logoColor=E0AF68)
-![Groq LLaMA](https://img.shields.io/badge/Groq_LLaMA-1a1b26?style=flat-square&logo=llama&logoColor=BB9AF7)
-![Kafka](https://img.shields.io/badge/Kafka-1a1b26?style=flat-square&logo=apachekafka&logoColor=F7768E)
-![Debezium](https://img.shields.io/badge/Debezium-1a1b26?style=flat-square&logo=apachekafka&logoColor=9ECE6A)
-
-</details>
-
-<details>
-<summary><b>infra & databases</b></summary>
-
-![Docker](https://img.shields.io/badge/Docker-1a1b26?style=flat-square&logo=docker&logoColor=7DCFFF)
-![AWS](https://img.shields.io/badge/AWS-1a1b26?style=flat-square&logo=amazonaws&logoColor=E0AF68)
-![Terraform](https://img.shields.io/badge/Terraform-1a1b26?style=flat-square&logo=terraform&logoColor=BB9AF7)
-![Nginx](https://img.shields.io/badge/Nginx-1a1b26?style=flat-square&logo=nginx&logoColor=9ECE6A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7AA2F7)
-![Redis](https://img.shields.io/badge/Redis-1a1b26?style=flat-square&logo=redis&logoColor=F7768E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=9ECE6A)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-1a1b26?style=flat-square&logo=clickhouse&logoColor=E0AF68)
-
-</details>
-
----
-
-## projects worth your time
-
-### [Skill Exchange & Job Platform](https://ansil.github)
-`Django REST` `React` `PostgreSQL` `Redis` `RabbitMQ` `Celery` `Docker` `AWS`
-
-full-stack dual-workflow platform — skill exchange *and* job applications in one. built it end-to-end.
-
-- **AI resume screening via RAG** — automatically ranks candidates against job requirements. actual reduction in manual screening, not just a demo feature
-- **RBAC across 3 roles** (users / recruiters / admin) with permission-gated API access throughout
-- **real-time** video/chat via WebSockets + WebRTC; async notifications via Celery Beat
-- **deployed on AWS** (EC2, RDS, S3) behind Nginx + Gunicorn, CI/CD via GitHub Actions
-
----
-
-### [Korvex — Multi-Tenant SaaS Supply Chain](https://ansil.github)
-`FastAPI` `React 19` `Kafka` `Debezium` `ClickHouse` `LangGraph` `Qdrant` `AWS EKS` `Terraform`
-
-this one's the complex one. built with a 4-person team, production-grade.
-
-- **ELT pipeline with Debezium + Kafka** — streams PostgreSQL CDC events into ClickHouse for real-time analytics. wrote the custom Python consumer
-- **agentic AI microservice with LangGraph** — orchestrates LLM fallback chains, tenant-scoped vector RAG via Qdrant, tool-level RBAC. not a chatbot wrapper, an actual workflow engine
-- **multi-tenant isolation** via PostgreSQL schema-per-tenant behind an Nginx API Gateway routing to dedicated AI, Chat, and core services
-- **infra via Terraform** — EKS, RDS, ElastiCache. n8n webhooks decouple email/alert workflows from the core server
-
----
-
-## stats
+## 🛠️ Technical Skills
 
 <div align="center">
-
-![Ansil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=a9b1d6&icon_color=7AA2F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=a9b1d6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ansil&theme=tokyonight&hide_border=true&background=1a1b26&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,redux,bootstrap,django,fastapi,postgres,redis,mongodb,docker,aws,nginx,git,github,postman&perline=9" alt="Animated Skills Matrix"/>
+  </a>
 </div>
 
----
+* **Languages:** Python, JavaScript (ES6+), HTML5, CSS3[cite: 1].
+* **Frontend:** React, Redux Toolkit, Bootstrap, Google Auth[cite: 1].
+* **Backend & Real-Time:** Django, Django REST Framework (DRF), FastAPI, WebSocket, WebRTC, Celery, Celery Beat, JWT[cite: 1].
+* **Database:** PostgreSQL, Redis (caching & pub/sub), Clickhouse, MongoDB[cite: 1].
+* **AI & Data:** Retrieval-Augmented Generation (RAG), LangChain, LangGraph, FAISS, ChromaDB, Groq (LLaMA), Debezium, Apache Kafka, ELT Pipeline[cite: 1].
+* **Cloud & DevOps:** AWS (EC2, RDS, S3), Docker, Nginx, Gunicorn, GitHub Actions, Terraform[cite: 1].
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Powered Full-Stack Skill Exchange & Job Application Platform[cite: 1]
+* Architected a full-stack platform using Django REST Framework and React supporting dual workflows — skill exchange and job applications — with scalable, modular backend design[cite: 1].
+* Integrated AI-powered resume screening using Retrieval-Augmented Generation (RAG) to automatically rank and filter candidates based on job requirements[cite: 1].
+* Built real-time communication features using WebSockets and WebRTC, enabling seamless live interaction between users[cite: 1].
+* Boosted backend performance with Redis caching, significantly reducing database load and improving API response times[cite: 1].
+* Deployed the full-stack application on AWS (EC2, RDS, S3) using Nginx and implemented a CI/CD pipeline with GitHub Actions[cite: 1].
+
+### 🏢 Korvex | Multi-Tenant SaaS Supply Chain Management Platform[cite: 1]
+* Collaborated in a 4-person team to build a multi-tenant FastAPI microservices backend, combining PostgreSQL schemas for dynamic database isolation with an Nginx API Gateway[cite: 1].
+* Developed an end-to-end ELT data pipeline using Debezium and Kafka to capture PostgreSQL changes, loading events into ClickHouse for real-time reporting[cite: 1].
+* Engineered an enterprise-grade agentic AI microservice with LangGraph, orchestrating resilient LLM fallback chains, tenant-filtered vector RAG via Qdrant, and dynamic tool-level RBAC[cite: 1].
+* Built a scalable chat microservice with FastAPI WebSockets, using Redis Pub/Sub as a message broker[cite: 1].
+* Architected a scalable deployment pipeline by configuring Docker Compose for local development and provisioning production AWS infrastructure (EKS, RDS, ElastiCache) via Terraform[cite: 1].
+
+## 📈 GitHub Stats
 
 <div align="center">
-
-`python` `django` `fastapi` `react` `langchain` `kafka` `docker` `aws` · open to interesting problems
-
-**ansil5252@gmail.com** · [linkedin](https://ansil.linkedin) · [github](https://ansil.github)
-
+  <!-- IMPORTANT: Replace "username=ansil" with your exact GitHub username in the links below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ansil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 📫 Let's Connect
+
+* **Email:** ansil5252@gmail.com[cite: 1]
+* **Phone:** 9778507917[cite: 1]
+* **LinkedIn:** ansil.linkedin[cite: 1]

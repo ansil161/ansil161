@@ -1,59 +1,3 @@
-# Hi there, I'm Ansil K! 👋
-
-### Full Stack Python Developer (Django | React) | AI & Scalable Systems Enthusiast
-
-I am a Full Stack Developer specializing in backend systems, microservices architecture, and AI-driven applications. I enjoy building scalable, multi-tenant web applications and orchestrating complex data pipelines. 
-
-Currently, I am driving end-to-end SDLC processes as a Python Fullstack Developer Intern at Bridgeon Solutions, while pursuing my BCA at IGNOU.
-
----
-
-### 🚀 What I Do
-* **Architecting Scalable Systems:** Designing multi-tenant microservices using FastAPI, Django, and AWS (EKS, EC2, RDS).
-* **AI & Agentic Workflows:** Integrating Retrieval-Augmented Generation (RAG), LangGraph, and custom LLM fallback chains to automate complex workflows.
-* **Real-Time Communication:** Building live interaction features using WebSockets, Socket.IO, WebRTC, and Redis Pub/Sub.
-* **Event-Driven Architecture:** Engineering robust ELT pipelines with Apache Kafka and Debezium for real-time reporting.
-
----
-
-### 💻 Tech Stack
-
-**Languages & Core:** Python, JavaScript (ES6+), HTML5, CSS3  
-**Frontend:** React, React 19, Redux Toolkit, Tailwind CSS, Bootstrap  
-**Backend:** Django, Django REST Framework (DRF), FastAPI, Django Channels, Celery, JWT  
-**Databases:** PostgreSQL, MongoDB, Redis, ClickHouse, Qdrant, ChromaDB, FAISS  
-**AI & Data:** RAG, LangChain, LangGraph, Groq (LLaMA), Apache Kafka, Debezium  
-**DevOps & Cloud:** Docker, Docker Compose, AWS (EC2, RDS, S3, EKS), Terraform, Nginx, Gunicorn, GitHub Actions  
-
----
-
-### 🛠️ Featured Projects
-
-#### 🏢 Korvex | Multi-Tenant SaaS Supply Chain Management Platform
-*Multi-tenant FastAPI microservices backend with dynamic database isolation.*
-* Engineered an enterprise-grade agentic AI microservice with **LangGraph** and tenant-filtered vector RAG via **Qdrant**.
-* Developed an end-to-end ELT pipeline using **Debezium** and **Kafka** to process PostgreSQL changes into **ClickHouse** for real-time analytics.
-* Provisioned production AWS infrastructure using **Terraform** and secured microservice traffic via an **Nginx API Gateway**.
-
-#### 🤖 AI-Powered Skill Exchange & Job Application Platform
-*Full-stack platform with dual workflows and AI resume screening.*
-* Integrated AI-powered resume screening using **RAG** to rank candidates based on requirements.
-* Built real-time communication features leveraging **WebSockets** and **WebRTC**.
-* Boosted performance and automated background tasks using **Redis** caching, **Celery**, and **Celery Beat**.
-* Containerized the stack with **Docker** and deployed on AWS with a complete CI/CD pipeline via **GitHub Actions**.
-
----
-
-### 📈 GitHub Stats
-
-![Ansil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansil&show_icons=true&theme=radical)
-*(Note: Replace "ansil" in the URL above with your actual GitHub username)*
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansil&layout=compact&theme=radical)
-*(Note: Replace "ansil" in the URL above with your actual GitHub username)*
-
----
-
 <div align="center">
 
 <!-- Animated Wavy Header -->
@@ -118,10 +62,3 @@ Search for "snk github action" to generate the SVG files to the 'output' branch.
 </picture>
 
 </div>
-
-### 📫 Let's Connect!
-
-<p align="left">
-<a href="mailto:ansil5252@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/ansil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>

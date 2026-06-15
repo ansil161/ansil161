@@ -62,21 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansil&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-### 📈 Live Activity Graph
-<div align="center">
-  <!-- Replace 'ansil' with your GitHub username -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansil&theme=radical&hide_border=true&area=true" alt="Animated Activity Graph" width="100%" />
-</div>
-
-### 🐍 GitHub Contribution Snake Animation
-<div align="center">
-  <!-- Replace 'ansil' with your GitHub username in both places below once your action is set up -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansil/ansil/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansil/ansil/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ansil/ansil/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 
 <!-- Animated Waving Footer Banner -->
 <div align="center">

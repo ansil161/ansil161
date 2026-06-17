@@ -109,7 +109,7 @@ print(me.currently_building())
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E5,100:39FF14&height=4&section=header" width="100%"/>
 
-## `>` PROJECTS
+## `>` ACTIVE_PROJECTS.run()
 
 <table width="100%">
 <tr>
@@ -121,7 +121,13 @@ print(me.currently_building())
 
 <img src="https://img.shields.io/badge/BUILD-PASSING-39FF14?style=flat-square&labelColor=0f0c29" />
 <img src="https://img.shields.io/badge/TEAM-4%20ENGINEERS-00F5FF?style=flat-square&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/STATUS-IN%20DEV-FF00E5?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-FF00E5?style=flat-square&labelColor=0f0c29" />
+
+<br/>
+
+<a href="https://korvex-d098b.web.app/">
+  <img src="https://img.shields.io/badge/🔗%20LIVE%20DEMO-korvex--d098b.web.app-00F5FF?style=for-the-badge&labelColor=0f0c29" />
+</a>
 
 <br/><br/>
 

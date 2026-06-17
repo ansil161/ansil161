@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Twinkling Header -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=250&section=header&text=Hello,%20I'm%20Ansil%20K%20👋&fontSize=70&animation=twinkling&fontAlignY=35" alt="Header Animation" />
+
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
   <a href="mailto:ansil5252@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-### 🌴 Architecting AI-driven applications and scalable SaaS platforms from Kerala, India[cite: 1].
+### 🌴 Architecting AI-driven applications and scalable SaaS platforms .
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a Full Stack Developer specializing in building scalable web applications, REST APIs, and event-driven microservices[cite: 1]. My passion lies at the intersection of robust backend engineering and modern AI capabilities, leveraging tools like Retrieval-Augmented Generation (RAG) and LangGraph to build intelligent, automated workflows[cite: 1]. 
+I am a Full Stack Developer specializing in building scalable web applications, REST APIs, and event-driven microservices[cite: 1]. My passion lies at the intersection of robust backend engineering and modern AI capabilities, leveraging tools like Retrieval-Augmented Generation (RAG) and LangGraph to build intelligent, automated workflows
 
 ---
 
@@ -43,10 +43,10 @@ I am a Full Stack Developer specializing in building scalable web applications, 
 
 ### 💼 Experience & Education
 
-| Role / Degree | Organization / Institution | Timeline | Key Contributions |
+| Role /  | Organization / Institution | Timeline | Key Contributions |
 | :--- | :--- | :--- | :--- |
 | **Python Fullstack Developer Intern**[cite: 1] | **Bridgeon Solutions**[cite: 1] | *06/2025 - Present*[cite: 1] | Architecting scalable multi-tenant apps (Django, FastAPI, React.js) and facilitating Agile/Scrum sprints[cite: 1]. |
-| **Bachelor of Computer Applications (BCA)**[cite: 1] | **IGNOU**[cite: 1] | *Ongoing (2025)*[cite: 1] | Focusing on foundational computer science and software development principles[cite: 1]. |
+
 
 ---
 

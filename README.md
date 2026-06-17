@@ -109,7 +109,7 @@ print(me.currently_building())
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E5,100:39FF14&height=4&section=header" width="100%"/>
 
-## `>` ACTIVE_PROJECTS.run()
+## `>` PROJECTS
 
 <table width="100%">
 <tr>
